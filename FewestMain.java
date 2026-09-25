@@ -6,6 +6,5 @@ public class FewestMain{
         System.out.println(f.fewestComparisons(75));
         System.out.println(f.fewestComparisons(100));
 
-
     }
 }

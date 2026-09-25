@@ -4,6 +4,6 @@ public class Age{
     
     public boolean isTeenAger(int age){
         //remove this when you start
-        return false;
+        return 12 < age && age < 20;
     }
 }
